@@ -1,0 +1,18 @@
+# Fichiers compilés Java
+*.class
+
+# Dossiers de compilation courants
+/bin/
+/build/
+/out/
+
+# Dossiers IntelliJ
+.idea/
+*.iml
+
+# Dossiers VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db

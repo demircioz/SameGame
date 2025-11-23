@@ -110,8 +110,9 @@ If the Makefile doesn’t work on your machine, then:
 
 ## 👨‍💻 Authors
 
-Canpolat DEMIRCI–ÖZMEN
-Théo ANASTASIO
+Canpolat DEMIRCI–ÖZMEN [Git](https://github.com/demircioz/)
+&
+Théo ANASTASIO [Git](https://grond.iut-fbleau.fr/anastasi)
 
 > Final Note : 16.00 / 20
 
